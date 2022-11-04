@@ -1,0 +1,8 @@
+# ninja log v5
+2	309	6892026038727330	Task6_autogen/timestamp	a5f60ddb34908e20
+2	309	6892026038727330	Task6_autogen/mocs_compilation.cpp	a5f60ddb34908e20
+2	309	6892026038727330	D:/Projects/cpp projects/Task6/cmake-build-debug/Task6_autogen/mocs_compilation.cpp	a5f60ddb34908e20
+2	309	6892026038727330	D:/Projects/cpp projects/Task6/cmake-build-debug/Task6_autogen/timestamp	a5f60ddb34908e20
+311	2398	6892026060610571	CMakeFiles/Task6.dir/main.cpp.obj	da0eeee16381917c
+2402	3008	6892026064847670	Task6.exe	989d4bbca19c0be7
+309	379	6892026040437978	CMakeFiles/Task6.dir/Task6_autogen/mocs_compilation.cpp.obj	1d29a203fc74143e
