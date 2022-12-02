@@ -1,0 +1,18 @@
+# ninja log v5
+5	2060	6910132113360489	Minesweeper_autogen/timestamp	f7caf0826ec83cb2
+2061	5779	6910132152529987	CMakeFiles/Minesweeper.dir/main.cpp.obj	3abebe8c1d5f1b41
+5	2060	6910132113360489	Minesweeper_autogen/mocs_compilation.cpp	f7caf0826ec83cb2
+5	2060	6910132113360489	D:/Projects/cpp projects/Minesweeper/cmake-build-debug/Minesweeper_autogen/timestamp	f7caf0826ec83cb2
+5	2060	6910132113360489	D:/Projects/cpp projects/Minesweeper/cmake-build-debug/Minesweeper_autogen/mocs_compilation.cpp	f7caf0826ec83cb2
+2065	5366	6910132148406487	CMakeFiles/Minesweeper.dir/Game.cpp.obj	3b9f44464838482f
+2063	5545	6910132150199962	CMakeFiles/Minesweeper.dir/Cell.cpp.obj	41b0b9e06640b4c5
+2062	5670	6910132151449941	CMakeFiles/Minesweeper.dir/Minesweeper_autogen/mocs_compilation.cpp.obj	a77df650e6d02fbf
+9	1084	6910168743832810	Minesweeper_autogen/timestamp	f7caf0826ec83cb2
+9	1084	6910168743832810	Minesweeper_autogen/mocs_compilation.cpp	f7caf0826ec83cb2
+9	1084	6910168743832810	D:/Projects/cpp projects/Minesweeper/cmake-build-debug/Minesweeper_autogen/timestamp	f7caf0826ec83cb2
+9	1084	6910168743832810	D:/Projects/cpp projects/Minesweeper/cmake-build-debug/Minesweeper_autogen/mocs_compilation.cpp	f7caf0826ec83cb2
+1088	4121	6910168776106275	CMakeFiles/Minesweeper.dir/Cell.cpp.obj	41b0b9e06640b4c5
+1087	4127	6910168776157065	CMakeFiles/Minesweeper.dir/MainWindow.cpp.obj	f4cef36b4d967eed
+1089	4128	6910168776167055	CMakeFiles/Minesweeper.dir/Game.cpp.obj	3b9f44464838482f
+1085	4130	6910168776177065	CMakeFiles/Minesweeper.dir/Minesweeper_autogen/mocs_compilation.cpp.obj	a77df650e6d02fbf
+1084	4132	6910168776197978	CMakeFiles/Minesweeper.dir/main.cpp.obj	3abebe8c1d5f1b41

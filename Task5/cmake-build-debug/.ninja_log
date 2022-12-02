@@ -1,0 +1,14 @@
+# ninja log v5
+2	14	1666689410264281035	untitled1_autogen/timestamp	5638181af6aa5425
+2	14	1666689410264281035	untitled1_autogen/mocs_compilation.cpp	5638181af6aa5425
+1593	2162	1666689412404290662	untitled1	d58179e55bc9eec7
+2	1174	6910168910556900	untitled1_autogen/timestamp	e3542d2baf45c5af
+2	1174	6910168910556900	untitled1_autogen/mocs_compilation.cpp	e3542d2baf45c5af
+2	1174	6910168910556900	D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/untitled1_autogen/timestamp	e3542d2baf45c5af
+2	1174	6910168910556900	D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/untitled1_autogen/mocs_compilation.cpp	e3542d2baf45c5af
+1179	2075	6910168921566890	CMakeFiles/untitled1.dir/Signal.cpp.obj	6ec02ca27adaf63f
+1174	3799	6910168938797287	CMakeFiles/untitled1.dir/main.cpp.obj	a86d5813c3771aa8
+1175	4072	6910168941516779	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	9de14055a47f0ce1
+1176	4110	6910168941890255	CMakeFiles/untitled1.dir/MainWindow.cpp.obj	ecdcc53abd92dd34
+1177	4141	6910168942222247	CMakeFiles/untitled1.dir/MyPainter.cpp.obj	63c6ff177f3d924
+4141	4503	6910168945807769	untitled1.exe	f10d5c9b432217bd

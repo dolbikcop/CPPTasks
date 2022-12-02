@@ -1,0 +1,5 @@
+D:/Projects/cpp projects/Task7/cmake-build-debug/CMakeFiles/Task7.dir
+D:/Projects/cpp projects/Task7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/cpp projects/Task7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/cpp projects/Task7/cmake-build-debug/CMakeFiles/Task7_autogen_timestamp_deps.dir
+D:/Projects/cpp projects/Task7/cmake-build-debug/CMakeFiles/Task7_autogen.dir

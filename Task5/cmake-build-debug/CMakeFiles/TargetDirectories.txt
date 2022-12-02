@@ -1,0 +1,5 @@
+D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/CMakeFiles/untitled1_autogen_timestamp_deps.dir
+D:/Projects/cpp projects/CPPTasks/Task5/cmake-build-debug/CMakeFiles/untitled1_autogen.dir

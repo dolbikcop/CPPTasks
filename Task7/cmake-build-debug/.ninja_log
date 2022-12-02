@@ -1,0 +1,22 @@
+# ninja log v5
+2	235	6910173071783072	Task7_autogen/timestamp	2754b2fff4de3eb9
+2	235	6910173071783072	Task7_autogen/mocs_compilation.cpp	2754b2fff4de3eb9
+236	287	6910173073168704	CMakeFiles/Task7.dir/Task7_autogen/mocs_compilation.cpp.obj	1297d3717fe8cdb1
+2	235	6910173071783072	D:/Projects/cpp projects/Task7/cmake-build-debug/Task7_autogen/timestamp	2754b2fff4de3eb9
+2	235	6910173071783072	D:/Projects/cpp projects/Task7/cmake-build-debug/Task7_autogen/mocs_compilation.cpp	2754b2fff4de3eb9
+237	2472	6910173094991887	CMakeFiles/Task7.dir/main.cpp.obj	66415e9ef784eccc
+2476	2946	6910173096593726	Task7.exe	3e747e6d2d06dc4d
+48	3306	6910174699161705	Task7_autogen/timestamp	2754b2fff4de3eb9
+48	3306	6910174699161705	Task7_autogen/mocs_compilation.cpp	2754b2fff4de3eb9
+48	3306	6910174699161705	D:/Projects/cpp projects/Task7/cmake-build-debug/Task7_autogen/timestamp	2754b2fff4de3eb9
+48	3306	6910174699161705	D:/Projects/cpp projects/Task7/cmake-build-debug/Task7_autogen/mocs_compilation.cpp	2754b2fff4de3eb9
+3334	8280	6910174750951801	CMakeFiles/Task7.dir/MainWindow.cpp.obj	1a567cee1a06af16
+3332	8289	6910174750921180	CMakeFiles/Task7.dir/Cell.cpp.obj	a51bd8ad38f84a8e
+3335	8290	6910174751073282	CMakeFiles/Task7.dir/Game.cpp.obj	2a65422db469f9f0
+3312	8290	6910174751103956	CMakeFiles/Task7.dir/Task7_autogen/mocs_compilation.cpp.obj	1297d3717fe8cdb1
+3331	8297	6910174751275691	CMakeFiles/Task7.dir/main.cpp.obj	66415e9ef784eccc
+9	446	6910175102201256	Task7_autogen/timestamp	2754b2fff4de3eb9
+9	446	6910175102201256	Task7_autogen/mocs_compilation.cpp	2754b2fff4de3eb9
+9	446	6910175102201256	D:/Projects/cpp projects/Task7/cmake-build-debug/Task7_autogen/timestamp	2754b2fff4de3eb9
+9	446	6910175102201256	D:/Projects/cpp projects/Task7/cmake-build-debug/Task7_autogen/mocs_compilation.cpp	2754b2fff4de3eb9
+454	2728	6910175125018902	CMakeFiles/Task7.dir/main.cpp.obj	66415e9ef784eccc
